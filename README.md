@@ -40,7 +40,7 @@ The analysis uses the following files:
 
 ```text
 data/scopus_final_with_references.csv
-data/thesaurus_bibliometrix_elian.csv
+data/thesaurus_full.csv
 ```
 
 The first file contains the final Scopus corpus used for the bibliometric and
