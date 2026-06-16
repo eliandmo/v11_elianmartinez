@@ -49,14 +49,7 @@ normalization.
 
 ## Selected PDF Outputs
 
-Some key outputs are included in PDF format for easier review:
 
-```text
-outputs/figures/embedding_hyperparameter_grid_summary.pdf
-outputs/figures/selected_topic_prevalence.pdf
-outputs/figures/selected_representative_ctfidf_terms.pdf
-outputs/figures/selected_bertopic_umap_topic_map.pdf
-```
 
 These figures summarize the model comparison, topic prevalence, representative
 c-TF-IDF terms, and the UMAP projection of BERTopic topics.
