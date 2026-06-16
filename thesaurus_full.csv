@@ -1,0 +1,61 @@
+canonical_term,variants,total_frequency,n_variants
+news media,mass media; mass medium; media; online news; online news media; news; newspaper; newspapers; newspapers as topic; newsprint; press; news articles; news reports,545,13
+digital media,internet; social media; social networking (online); facebook; twitter; tiktok; youtube; blogs; podcasting; online media; digital news; mobile; alternative media,208,13
+covid-19,coronavirus; coronavirus disease 2019; sars-cov-2; pandemic; pandemics; covid-19 pandemic,194,6
+discourse analysis,critical discourse analysis; cda; discourse; news discourse; media discourse; discourse-historical approach; discursive psychology; textual analysis; multimodality; corpus linguistics,156,10
+narrative,narratives; narration; narrations; narrative analysis; narrative structures; narrative structure; story; news narrative; news narratives; media narrative; media narratives; narrative economics,145,12
+framing,media framing; news framing; framing analysis; framing theory; frame analysis; media frames; visual framing; frames; news frames,138,9
+media representation,media representations; media portrayal; media role; media coverage; news coverage; media bias; media analysis; news analysis; media trust; media frames,127,10
+journalism,digital journalism; data journalism; online journalism; science journalism; photojournalism; peace journalism; constructive journalism; environmental journalism; journalism practice; journalism ethics; journalism innovation; conflict reporting; news reporting; news production,127,14
+gender,feminism; gender-based violence; sexual assault; sexual violence; rape; intersectionality; masculinity; hegemonic masculinity; motherhood; transgender; lgbtq+; sexual and gender minorities; bisexuality; women,100,14
+public health,"health communication; risk communication; health promotion; health behavior; health policy; health care policy; health education; global health; health knowledge, attitudes, practice",95,9
+content analysis,thematic analysis; qualitative content analysis; quantitative content analysis; automated content analysis; text analysis; computational text analysis,90,6
+machine learning,deep learning; artificial intelligence; learning algorithms; learning systems; algorithm; algorithms; automation; decision trees; speech recognition; character recognition; bert,87,11
+climate change,climate change communication; climate crisis; environmental communication; environmental journalism; environmental policy; environmental justice; environmental politics; decarbonization; energy transition; energy policy,82,10
+disaster,natural disaster; disaster management; wildfire; wildfires; flood; flooding; epidemic; pandemic; disaster,81,9
+race,racism; racial profiling; racial identity; racialization; critical race theory; whiteness; dehumanization; othering; discrimination; prejudice; stereotyping; stereotypes; stereotype,80,13
+mental health,stigma; social stigma; depression; anxiety; mental illness; psychological aspect; attitude to health,77,7
+epidemic,epidemiology; disease spread; disease control; communicable disease control; pandemic,73,5
+natural language processing,nlp; natural language processing (nlp); natural language processing systems; computational linguistics; language processing; natural languages; language model,71,7
+populism,media populism; nationalism; neoliberalism; authoritarianism; hegemony; ideology; propaganda; polarization; polarisation,70,9
+public opinion,public sphere; democracy; civil society; public discourse; public attitude; public perception,69,6
+qualitative research,qualitative analysis; qualitative methods; qualitative content analysis; case study; interview; interviews; questionnaire; qualitative,69,8
+text mining,text-mining; data mining; text analysis; computational text analysis; text classification; feature extraction; named entity recognition; information extraction; information retrieval; lexical analysis; computational methods; data journalisms,67,12
+data visualization,visualization; visual analytics; data journalism; narrative visualization; visual communication; infographic; infographics; data-driven storytelling,66,8
+fake news,misinformation; disinformation; fact-checking; misinformation detection; deception; media bias; propaganda; infodemic,65,8
+crime,violence; police violence; police; law enforcement; homicide; deadly force; terrorism; criminal justice,62,8
+immigration,migration; immigrant; migrant; diaspora; refugee; multiculturalism; immigration policy; international migration; indigenous people,60,9
+sustainability,sustainable development; sustainable development goal; biodiversity; conservation; food security; food safety; agriculture; water supply,57,8
+big data,data analysis; data set; data base; benchmarking; quantitative analysis; computational methods; forecasting; statistics; data driven,53,9
+harm reduction,addiction; substance use; alcohol; tobacco; tobacco industry; tobacco control; smoking; vaping; fentanyl; drug overdose,51,10
+misinformation,disinformation; fake news; infodemic; misinformation detection; fact-checking,51,5
+disability,ageism; aging; dementia; aged; autism; mental illness,46,6
+popular culture,film; music; celebrity; culture; postcolonialism; memory; collective memory; commemoration; history,45,9
+storytelling,data-driven storytelling; visual storytelling; data storytelling; narrative visualization; immersive journalism; immersive storytelling,43,6
+social movements,activism; advocacy; protest; protests; social justice; protest paradigm,41,6
+sentiment analysis,opinion mining; news sentiment,40,2
+health care,health care facility; health care organization; health care quality; health care delivery; health care personnel; health care policy,37,6
+obesity,overweight; bariatric surgery; glp-1a; diet; nutrition policy,33,5
+terrorism,information warfare; war; conflict; russia-ukraine war,33,4
+political communication,political discourse; political economy; political participation; political conflict; political relations,33,5
+identity,national identity; cultural identity; racial identity; indigenous; social identity; self concept,31,6
+religion,islam; islamophobia; islamism; muslims; christianity,28,5
+war,conflict; conflict reporting; information warfare; russia-ukraine war; geopolitics,28,5
+large language model,large language models; llm-as-a-judge; bert; chatgpt; chatbots; generative ai,28,6
+agenda setting,media populism; mediatization; metajournalistic discourse; news consumption,28,4
+topic modeling,topic modelling; structural topic modeling; latent dirichlet allocation; lda,26,4
+strategic narratives,strategic communication; public diplomacy; narrative economics; information warfare,24,4
+technology,technology adoption; innovation; journalism innovation; fintech,22,4
+science communication,science journalism; media and science; risk communication,21,3
+sexual violence,sexual assault; rape; gender-based violence; violence against women,21,4
+quantitative research,quantitative analysis; quantitative content analysis; statistical analysis; survey; systematic review; randomized controlled trial; experimental study,20,7
+vaccination,vaccine; immunization; measles mumps rubella vaccine; measles,19,4
+sport,football; cultural sport psychology; sports media,18,3
+television,television news; broadcasting,17,2
+tourism,tourism development; ecotourism; tourist destination,17,3
+reproductive health,pregnancy; women's health; gender-based violence,15,3
+journalists,journalistic practice; news production; audiences,15,3
+virtual reality,immersive journalism; immersion; augmented reality,15,3
+bibliometrics,bibliometric analysis; systematic review; literature review; research questions; research work,13,5
+rhetoric,rhetorical analysis; metaphor,11,2
+mixed methods,case study; triangulation,7,2
